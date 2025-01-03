@@ -1,3 +1,3 @@
 print('hello world')
-print ('hi')
+print ('hi, 안녕하세요')
 
