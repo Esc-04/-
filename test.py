@@ -1,3 +1,3 @@
 print('hello world')
-print ('hi, 안녕하세요')
+print ('hi,국민우유유')
 
